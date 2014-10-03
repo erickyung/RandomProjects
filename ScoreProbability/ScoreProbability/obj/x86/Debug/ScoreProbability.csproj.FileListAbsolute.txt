@@ -1,0 +1,5 @@
+C:\Tests\ScoreProbability\ScoreProbability\bin\Debug\ScoreProbability.exe
+C:\Tests\ScoreProbability\ScoreProbability\bin\Debug\ScoreProbability.pdb
+C:\Tests\ScoreProbability\ScoreProbability\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tests\ScoreProbability\ScoreProbability\obj\x86\Debug\ScoreProbability.exe
+C:\Tests\ScoreProbability\ScoreProbability\obj\x86\Debug\ScoreProbability.pdb

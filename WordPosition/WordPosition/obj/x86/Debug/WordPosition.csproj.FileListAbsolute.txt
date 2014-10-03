@@ -1,0 +1,5 @@
+C:\Tests\WordPosition\WordPosition\bin\Debug\WordPosition.exe
+C:\Tests\WordPosition\WordPosition\bin\Debug\WordPosition.pdb
+C:\Tests\WordPosition\WordPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tests\WordPosition\WordPosition\obj\x86\Debug\WordPosition.exe
+C:\Tests\WordPosition\WordPosition\obj\x86\Debug\WordPosition.pdb

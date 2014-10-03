@@ -1,0 +1,5 @@
+C:\Tests\PlayCards\PlayCards\bin\Debug\PlayCards.exe
+C:\Tests\PlayCards\PlayCards\bin\Debug\PlayCards.pdb
+C:\Tests\PlayCards\PlayCards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tests\PlayCards\PlayCards\obj\x86\Debug\PlayCards.exe
+C:\Tests\PlayCards\PlayCards\obj\x86\Debug\PlayCards.pdb

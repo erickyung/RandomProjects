@@ -1,0 +1,5 @@
+C:\Tests\MaybeMonad\MaybeMonad\bin\Debug\MaybeMonad.dll
+C:\Tests\MaybeMonad\MaybeMonad\bin\Debug\MaybeMonad.pdb
+C:\Tests\MaybeMonad\MaybeMonad\obj\Debug\ResolveAssemblyReference.cache
+C:\Tests\MaybeMonad\MaybeMonad\obj\Debug\MaybeMonad.dll
+C:\Tests\MaybeMonad\MaybeMonad\obj\Debug\MaybeMonad.pdb

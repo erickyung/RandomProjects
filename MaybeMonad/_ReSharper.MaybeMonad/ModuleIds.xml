@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="4A3CB15B-47A6-487E-B647-A094FC04BA36" ModuleId="MaybeMonad" />
+  <Module PersistentId="041A15FA-0179-49B6-AB23-AB075840013A" ModuleId="MaybeMonadApp" />
+</Modules>

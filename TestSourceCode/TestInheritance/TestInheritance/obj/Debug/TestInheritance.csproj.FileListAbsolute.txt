@@ -1,0 +1,8 @@
+C:\TestSourceCode\TestInheritance\TestInheritance\obj\Debug\ResolveAssemblyReference.cache
+C:\TestSourceCode\TestInheritance\TestInheritance\bin\Debug\TestInheritance.exe
+C:\TestSourceCode\TestInheritance\TestInheritance\bin\Debug\TestInheritance.pdb
+C:\TestSourceCode\TestInheritance\TestInheritance\obj\Debug\TestInheritance.exe
+C:\TestSourceCode\TestInheritance\TestInheritance\obj\Debug\TestInheritance.pdb
+C:\Personal Data\Projects\TestSourceCode\TestInheritance\TestInheritance\obj\Debug\TestInheritance.exe
+C:\Personal Data\Projects\TestSourceCode\TestInheritance\TestInheritance\obj\Debug\TestInheritance.pdb
+C:\Personal Data\Projects\TestSourceCode\TestInheritance\TestInheritance\bin\Debug\TestInheritance.exe.config

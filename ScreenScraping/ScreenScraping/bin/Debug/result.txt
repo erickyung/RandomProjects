@@ -1,0 +1,311 @@
+Logged into BPODirect.
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+
+
+
+<html><head>
+<title>Appraisal Valuation</title>
+<base>
+<link rel="STYLESHEET" type="text/css" href="https://www.bpodirect.com/BPODirect2/css/fontspecs.css">
+<script language="JavaScript" src="https://www.bpodirect.com/BPODirect2/scripts/Rollover.js" type="text/javascript"></script>
+<script language="JavaScript" src="https://www.bpodirect.com/BPODirect2/scripts/Utilites.js" type="text/javascript"></script>
+<script language="JavaScript" src="https://www.bpodirect.com/BPODirect2/scripts/ImagesDD.js" type="text/javascript"></script>
+<script language="JavaScript" src="https://www.bpodirect.com/BPODirect2/scripts/OrdersNav.js" type="text/javascript"></script>
+<script language="JavaScript" src="https://www.bpodirect.com/BPODirect2/scripts/ProfileNav.js" type="text/javascript"></script>
+<script language="JavaScript" src="https://www.bpodirect.com/BPODirect2/scripts/HelpNav.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">function form_onload() {document.images['pbar'].src="https://www.bpodirect.com/BPODirect2/images/form_imgs/progress_static.gif";}</script>
+</head>
+<body bgcolor="#ffffff" onload="javascript:form_onload()">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr><td><img src="https://www.bpodirect.com/BPODirect2/images/tbnr_imgs/top_bnr_image.gif" alt="" width="503" height="40" border="0"></td>
+<td width="100%" class="headerBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" width="6" height="40" alt="" border="0"></td>
+<td class="headerFooterLinks" width="266">
+<table cellspacing="0" cellpadding="0" border="0">
+<tr><td class="headerFooterLinks"><a href="/BPODirect1/supplierWelcome.jsp"><font color="#FFFFFF">Home</font></a> | <a href="/BPODirect1/onLogOff.do"><font color="#FFFFFF">Logout</font></a></td></tr>
+<tr><td class="headerFooterLinks"><a href="http://www.freddiemac.com"><font color="#FFFFFF">FreddieMac.com</font></a> | <a href="http://www.homesteps.com"><font color="#FFFFFF">HomeSteps.com</font></a></td></tr>
+<tr><td class="headerFooterLinks"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="266" height="1" border="0"></td></tr>
+</table></td>
+<td class="headerBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="1" width="5" border="0"></td></tr>
+<tr><td colspan="4" class="yellowLine"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="1" height="3" border="0"></td></tr>
+</table>
+<table cellspacing="0" cellpadding="0" border="0">
+<tr><td class="headerBlue"><a href="/BPODirect1/BPO/" onmouseover="imgOn('Orders')"  onmouseout="imgOff('Orders')"><img name="Orders" src="https://www.bpodirect.com/BPODirect2/images/tnav_imgs/tnav_orders.gif" width="64" height="18" border="0" alt="Orders"></a></td>
+<td class="headerBlue"><img src="https://www.bpodirect.com/BPODirect2/images/tnav_imgs/tnav_separator.gif" width="2" height="18" border="0" alt=""></td>
+<td class="headerBlue"><a href="/BPODirect1/BPO/" onmouseover="imgOn('Profile')"  onmouseout="imgOff('Profile')"><img name="Profile" src="https://www.bpodirect.com/BPODirect2/images/tnav_imgs/tnav_profile.gif" width="61" height="18" border="0" alt="Profile"></a></td>
+<td class="headerBlue"><img src="https://www.bpodirect.com/BPODirect2/images/tnav_imgs/tnav_separator.gif" width="2" height="18" border="0" alt=""></td>
+<td class="headerBlue"><a href="/BPODirect1/BPO/" onmouseover="imgOn('Help')"  onmouseout="imgOff('Help')"><img name="Help" src="https://www.bpodirect.com/BPODirect2/images/tnav_imgs/tnav_help.gif" width="51" height="18" border="0" alt="Help"></a></td>
+<td class="headerBlue"><img src="https://www.bpodirect.com/BPODirect2/images/tnav_imgs/tnav_separator.gif" width="2" height="18" border="0" alt=""></td>
+<td class="headerBlue"><img src="https://www.bpodirect.com/BPODirect2/images/tnav_imgs/tnav_bnr_right_fade.gif" width="98" height="22" border="0" alt=""></td>
+<td class="headerBlue" width="100%" background="https://www.bpodirect.com/BPODirect2/images/tnav_imgs/tnav_bnr_right_tile.gif"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" height="22" width="1" alt="" border="0"></td>
+</tr></table>
+
+
+
+
+
+<script language="JavaScript" src="https://www.bpodirect.com/BPODirect2/scripts/Messages.js" type="text/javascript"></script>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+	<tr valign="top">
+		<td width="378" class="siteWhite"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" width="378" height="34" alt="" border="0"></td>
+		<td width="37" class="siteWhite"><img src="https://www.bpodirect.com/BPODirect2/images/tnav_imgs/tnav_message_bg.gif" width="37" height="34" alt="" border="0"></td>
+		<td class="siteWhite" background="https://www.bpodirect.com/BPODirect2/images/tnav_imgs/tnav_message_bg_tile.gif" width="100%" align="right">
+			
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="100%" align="left" colspan="3">
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tr>
+					<td class="homepgSection">
+						
+						<img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" width="8" height="1" alt="" border="0">
+						
+					</td>
+				</tr>
+			</table>					
+		</td>
+	</tr>
+</table>
+
+<img name="pbar" src="https://www.bpodirect.com/BPODirect2/images/form_imgs/progress_animated.gif" width=170 height=12 alt="">
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+<UL>
+
+  <LI>Appraisal Valuation Saved</LI>
+
+</UL>
+
+
+<!-- BEGIN Body -->
+<form name="bpoForm" method="post" action="/BPODirect1/onAppraisalForm.do" onsubmit="javascript: return validateAppraisalForm(this);">
+<input type="hidden" name="actionType">
+<input type="hidden" name="orderIdentifierString" value="41833801">
+<input type="hidden" name="updateTimeString" value="1292624723">
+<table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+	    <td class="pageTitle">Appraisal Valuation</td>
+	</tr>
+	<tr>
+		<td><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="500" height="10"></td>
+	</tr>
+	<tr>
+		<td><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="500" height="10"></td>
+	</tr>
+	<tr>
+		<td class="pageSection">BPO Order Number: 41833801</td>
+	</tr>
+	<tr>
+		<td><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="500" height="10"></td>
+	</tr>
+    
+    <!-- Begin Main Form -->
+	<tr>
+        <td>
+            <table cellspacing="0" cellpadding="0" border="0">
+            	<tr>
+            	    <td rowspan="4" class="siteDarkBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt=""  height="15" width="1"></td>
+            	    <td class="formSmTitle" align="right"><span class="siteStar">*</span>Indicates  required field(s)</td>
+            	    <td class="siteDarkBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="11" height="15"></td>
+            	    <td rowspan="2" class="siteDarkBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="1"></td>
+            		<td><img src="https://www.bpodirect.com/BPODirect2/images/form_imgs/form_shad_v_top.gif" height="15" width="6"></td>
+             	</tr>
+            	<tr>
+            	    <td>
+            			<!-- Central Form Begin -->
+            			<table cellspacing="0" cellpadding="0" border="0">
+            				<tr>
+            				    <td class="siteLightBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="10"></td>
+            				    <td>
+            						<table cellspacing="0" cellpadding="0" border="0">
+            							<tr>
+            							    <td class="siteLightBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="10" width="732"></td>
+            							</tr>
+										<tr>
+										    <td class="siteLightBlue"><span class="pageSection">Order Information</span></td>
+										</tr>
+										<tr>
+										    <td class="siteLightBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="5" width="732"></td>
+										</tr>
+										
+    									<!-- Begin Information Table -->
+            							<tr>
+            							    <td class="siteLightBlue">
+                                                <table cellspacing="0" cellpadding="0" border="0">
+                                                    <tr>
+                                                        <td colspan="5">
+                                                            <table cellspacing="0" cellpadding="0" border="0">
+                                                            	<tr>
+                                                            	    <td rowspan="2" class="siteDarkBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="1" height="11"></td>
+                                                            	    <td class="siteDarkBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="1" width="720"></td>
+                                                            	    <td rowspan="2"><img src="https://www.bpodirect.com/BPODirect2/images/form_imgs/form_inside_curve.gif" width="11" height="11"></td>
+                                                            	</tr>
+                                                            	<tr>
+                                                            	    <td class="siteMedBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="10" width="720"></td>
+                                                            	</tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="siteDarkBlue" rowspan="2"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="1"></td>
+                                                        <td class="siteMedBlue" rowspan="2"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="5"></td>
+                                                        <td class="siteMedBlue" width="720">
+                                                            
+											        <!-- Begin Input Fields -->
+												<table cellspacing="0" cellpadding="0" border="0">
+												<tr>
+												
+												<td class="formLabelMed" width="110">As Is Value:</td>
+												<td class="siteMedBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="10" width="10"></td>
+												<td colspan="5" class="formField" width="225"><input type="text" name="orderVersion.valuation.asIsValueAmountString" maxlength="10" size="15" tabindex="1" value="200000"></td>
+												
+												<td class="formLabelMed" width="110">Repair Value:</td>
+												<td class="siteMedBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="10" width="10"></td>
+												<td colspan="5" class="formField" width="225"><input type="text" name="orderVersion.valuation.repairValueAmountString" maxlength="10" size="15" tabindex="2" value="300000"></td>
+												</tr>
+																							
+									
+
+												</table>												
+
+												<!-- End Input Fields -->
+															
+                                                    </td>
+                                                        <td class="siteMedBlue" rowspan="2"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="5"></td>
+                                                        <td class="siteDarkBlue" rowspan="2"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="1"></td>
+                                                    </tr>
+													<tr>
+                                                        <td class="siteMedBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="10" width="705"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="5" class="siteDarkBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="1" width="717"></td>
+                                                    </tr>
+                                                </table>                                                
+            								</td>
+            							</tr>
+                                        <!-- End Information Table -->			
+
+            							<tr>
+            							    <td class="siteLightBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="10"></td>
+            							</tr>
+                                        
+            							
+            							<tr>
+            							    <td class="siteLightBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="10"></td>
+            							</tr>
+										
+										<tr>
+										    <td class="siteLightBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="5" width="732"></td>
+										</tr>
+										
+    					
+        <td colspan="3" align="right" width="575">
+            <table cellspacing="0" cellpadding="0" border="0">
+                <tr>  
+                
+                    <td><input type="image" onclick="javascript:document.forms[0].elements['actionType'].value='save';" src="https://www.bpodirect.com/BPODirect2/images/form_imgs/form_btn_savefinishlater_w.gif" alt="Save and Finish Later" border="0" tabindex="999"/></td>
+		    	<td><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="5" height="29"></td>
+		    	<td><input type="image" onclick="javascript:document.forms[0].elements['actionType'].value='submit';" src="https://www.bpodirect.com/BPODirect2/images/form_imgs/form_btn_submit_w.gif" alt="Submit" tabindex="999" /></td>
+			<td><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" width="5" height="29"></td>
+                   
+                </tr>                       
+            </table>
+        </td>
+    </tr>
+<!-- END Sumbit/Cancel -->      
+    
+	<tr>
+	    <td colspan="3"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="20"></td>
+	</tr>
+</table>
+
+
+<!-- END Body -->
+</form>
+<script type="text/javascript" language="Javascript1.1"> 
+
+<!-- Begin 
+
+    var bCancel = false; 
+
+    function validateAppraisalForm(form) { 
+        if (bCancel) { 
+            return true; 
+        } else { 
+            var formValidationResult; 
+            formValidationResult = validateInteger(form) & validateRequired(form); 
+            return (formValidationResult == 1); 
+        } 
+    } 
+
+    function appraisalForm_IntegerValidations () { 
+     this.a0 = new Array("orderVersion.valuation.repairValueAmountString", "Repair Value Amount must be an integer.", new Function ("varName", " return this[varName];"));
+     this.a1 = new Array("orderVersion.valuation.asIsValueAmountString", "As Is Value Amount must be an integer.", new Function ("varName", " return this[varName];"));
+    } 
+
+    function appraisalForm_required () { 
+     this.a0 = new Array("orderVersion.valuation.repairValueAmountString", "Repair Value Amount is required.", new Function ("varName", " return this[varName];"));
+     this.a1 = new Array("orderVersion.valuation.asIsValueAmountString", "As Is Value Amount is required.", new Function ("varName", " return this[varName];"));
+    } 
+
+
+//End --> 
+</script>
+
+
+<script language="JavaScript"  type="text/javascript" src="https://www.bpodirect.com/BPODirect2/scripts/Validate.js"></script>
+
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr><td colspan="3" class="yellowLine"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="3" width="1" border="0"></td></tr>
+<tr><td width="100%" class="headerBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif"  width="1" height="1" alt="" border="0"></td>
+<td class="headerFooterLinks" width="774">&copy; 2002 Freddie Mac<BR>
+<a href="http://www.freddiemac.com/terms" class="headerFooterLinks" target="_blank"><font color="#ffffff">Terms &amp; Conditions</font></a>
+<br><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" width="774" height="1" alt="" border="0"></td>
+<td class="headerBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" width="5" height="1" alt="" border="0"></td></tr>
+<tr><td colspan="3" class="headerBlue"><img src="https://www.bpodirect.com/BPODirect2/images/gen_imgs/spacer.gif" alt="" height="20" width="1" border="0"></td></tr></table>
+<script language="JavaScript" type="text/javascript">
+<!--
+LoadRollovers();
+// ECMU100319081 JCM 06/29/2006 Broker license verification
+// ECMU100319081 JCM 07/13/2006 Removed Broker license verification because of change in requirements
+OrdersMenuBuild();
+OrdersMenuInit();
+ProfileMenuBuild();
+ProfileMenuInit();
+HelpMenuBuild();
+HelpMenuInit();
+//-->
+</script>
+</body>
+</html>
+
+
+Logged out.

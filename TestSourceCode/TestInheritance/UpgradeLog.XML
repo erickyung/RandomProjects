@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TestInheritance">
+</Property><Property Name="Solution File" Value="C:\Personal Data\Projects\TestSourceCode\TestInheritance\TestInheritance.sln">
+</Property><Property Name="User Options File" Value="C:\Personal Data\Projects\TestSourceCode\TestInheritance\TestInheritance.suo">
+</Property><Property Name="Date" Value="Tuesday, March 08, 2011">
+</Property><Property Name="Time" Value="18:02 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TestInheritance.sln" Description="File successfully backed up as C:\Personal Data\Projects\TestSourceCode\TestInheritance\Backup\TestInheritance.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TestInheritance.suo" Description="File successfully backed up as C:\Personal Data\Projects\TestSourceCode\TestInheritance\Backup\TestInheritance.suo">
+</Event><Event ErrorLevel="0" Project="TestInheritance" Source="TestInheritance\TestInheritance.csproj" Description="Project file successfully backed up as C:\Personal Data\Projects\TestSourceCode\TestInheritance\Backup\TestInheritance\TestInheritance.csproj">
+</Event><Event ErrorLevel="0" Project="TestInheritance" Source="TestInheritance\Program.cs" Description="File successfully backed up as C:\Personal Data\Projects\TestSourceCode\TestInheritance\Backup\TestInheritance\Program.cs">
+</Event><Event ErrorLevel="0" Project="TestInheritance" Source="TestInheritance\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Personal Data\Projects\TestSourceCode\TestInheritance\Backup\TestInheritance\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TestInheritance" Source="TestInheritance\TestInheritance.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestInheritance" Source="TestInheritance\TestInheritance.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TestInheritance.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TestInheritance.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestInheritance" Source="TestInheritance\TestInheritance.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

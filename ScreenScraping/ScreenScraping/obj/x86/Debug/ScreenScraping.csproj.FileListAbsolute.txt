@@ -1,0 +1,6 @@
+C:\Tests\ScreenScraping\ScreenScraping\bin\Debug\ScreenScraping.exe.config
+C:\Tests\ScreenScraping\ScreenScraping\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tests\ScreenScraping\ScreenScraping\bin\Debug\ScreenScraping.exe
+C:\Tests\ScreenScraping\ScreenScraping\bin\Debug\ScreenScraping.pdb
+C:\Tests\ScreenScraping\ScreenScraping\obj\x86\Debug\ScreenScraping.exe
+C:\Tests\ScreenScraping\ScreenScraping\obj\x86\Debug\ScreenScraping.pdb

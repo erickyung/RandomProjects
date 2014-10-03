@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RealEC-XML>
+    <Header>
+        <AckRef>1</AckRef>
+        <Created>2011/10/25 16:34:41</Created>
+        <Format>RealEC</Format>
+        <GMTOffset>-5</GMTOffset>
+        <SourceApp>Pro Teck Services</SourceApp>
+        <SourceID>1752</SourceID>
+        <SourceVer>1</SourceVer>
+        <Version>3</Version>
+        <UserName>Pro Teck Services</UserName>
+        <CreatedBy>13392588</CreatedBy>
+    </Header>
+    <Transaction>
+        <TransactionID>12379496-10266009</TransactionID>
+        <ProductList>
+            <Count>1</Count>
+            <Product>
+                <UniqueID>1</UniqueID>
+                <ProviderOrderNbr>80c65c2c-e5c0-45f2-847d-aa787a0627bd</ProviderOrderNbr>
+                <Event>
+                    <RECCode>220</RECCode>
+                    <EventDate>2011/10/25 16:34:41</EventDate>
+                    <Comment>New test message fromProTeck to client</Comment>
+                </Event>
+            </Product>
+        </ProductList>
+    </Transaction>
+</RealEC-XML>

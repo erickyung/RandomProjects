@@ -1,0 +1,7 @@
+C:\Tests\TestSolution\TestSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Tests\TestSolution\TestSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Tests\TestSolution\TestSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Tests\TestSolution\TestSolution\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tests\TestSolution\TestSolution\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Tests\TestSolution\TestSolution\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Tests\TestSolution\TestSolution\ConsoleApplication1\bin\Debug\Resource\RealECEvent220.xml
